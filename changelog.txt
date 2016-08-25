@@ -1,0 +1,5 @@
+Changelog for datRPG
+
+8/23/16: Project started by Dane and Gibson, with Dane giving it the really dumb name of datRPG, which has stuck and will stick until we can make a better name.
+
+We have created and implemented basic stats and fighting system + basic text to action (tta) interpreter, unfinished.
